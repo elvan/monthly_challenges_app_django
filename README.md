@@ -1,0 +1,1 @@
+# monthly_challenges_app_django
